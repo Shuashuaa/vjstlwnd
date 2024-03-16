@@ -1,4 +1,11 @@
-# vjstlwnd
+### vjstlwnd
+## Tech Stack
+
+- [x] Vite | Vuejs3
+- [x] TailwindCss
+- [x] Firebase | Supabase
+
+<hr/>
 
 This template should help get you started developing with Vue 3 in Vite.
 
